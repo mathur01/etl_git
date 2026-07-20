@@ -1,0 +1,15 @@
+# Python files
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Data files
+data/
+*.csv
+*.json
+
+# IDE files
+.vscode/
+.idea/
